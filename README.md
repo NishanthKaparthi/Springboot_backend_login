@@ -1,2 +1,13 @@
 # Springboot_backend_login
-Springboot backend code for login module , angular-12 as frontend
+### Simple Login-Logout module with Springboot, Spring Security(Basic Authentication) and Angular-12(Angular-frontend-login repository)
+
+## Requirements
+- Java 11
+- Spring Boot
+- Spring Security
+- Intellij IDEA
+- Maven
+- Embedded Tomcat
+- Postman
+- GitHub
+
